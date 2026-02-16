@@ -18,3 +18,4 @@ The dataset used for training was synthetically generated.
 2. Install required dependencies
 3. Run the app using:
    streamlit run app.py
+
